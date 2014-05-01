@@ -1,0 +1,8 @@
+{
+  "name": "runkeeper",
+  "description": "RunKeeper OAuth flow",
+  "homepage": "https://github.com/matthewforr/meteor-runkeeper",
+  "author": "Matthew Forr <matthew.forr@gmail.com> (http://matthewforr.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/matthewforr/meteor-runkeeper.git",
+}
